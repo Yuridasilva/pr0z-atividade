@@ -1,0 +1,35 @@
+body{
+    background: linear-gradient(to left, rgb(0, 0, 0),rgb(35, 6, 114));
+    color: aliceblue;
+    font-family: Georgia, 'Times New Roman', Times, serif
+}
+
+img{
+    width: 300px;
+    border-radius: 50px;
+}
+
+.box,h1 {
+    width: 80%;
+    background: linear-gradient(to left, rgb(132, 121, 230), #6590a9, #817fe3);
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    padding: 20px;
+    max-width:1000px;
+    position: relative;
+    border-radius: 10px;
+    border: 2px solid rgb(0, 0, 0);
+    text-align: center;
+}
+footer {
+    background: linear-gradient(to left, rgb(132, 121, 230), #6590a9, #817fe3);
+    margin-top: 50px;
+    padding: 20px;
+
+
+
+
+
+
+}
